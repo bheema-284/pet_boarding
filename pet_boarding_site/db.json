@@ -1,0 +1,14 @@
+{
+  "listing": [
+    {
+      "id": "1",
+      "name": "Bheem Sagar",
+      "city": "hyderabad",
+      "address": "vnagar",
+      "capacity": "56",
+      "costperday": "5",
+      "verified": "Yes",
+      "rating": "5"
+    }
+  ]
+}

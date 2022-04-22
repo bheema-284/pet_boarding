@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+#links{
+  text-decoration: none;
+  color: black;
+  font-size: larger;
+  font-weight: 500;
+}
+#links:hover{
+  text-decoration: underline;
+  color: black;
+  font-size: larger;  
+}
+.navdiv{
+  width: 100%;
+  height: 30px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(20, 224, 33);
+}
+.table{
+  width: 50%;  
+  margin: auto;
+}
+table, th, td {
+  border:1px solid black;
+}
